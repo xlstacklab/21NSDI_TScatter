@@ -16,7 +16,7 @@ authors:
   - family-names: Zhu
     given-names: Ting
 license: MIT
-repository-code: "https://github.com/xinliulab/21NSDI_TScatter"
+repository-code: "https://github.com/xlstacklab/21NSDI_TScatter"
 url: "https://www.usenix.org/conference/nsdi21/presentation/liu-xin"
 preferred-citation:
   type: conference-paper
